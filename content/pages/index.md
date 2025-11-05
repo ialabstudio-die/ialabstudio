@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'IA Lab Studio: Laboratorio de Automatización y Presencia Digital'
-    subtitle: "Diseñamos, conectamos y automatizamos ecosistemas digitales.\_Desde la identidad hasta la expansión, ayudamos a profesionales y marcas a crear una presencia digital inteligente y modular."
+    subtitle: "Diseñamos, conectamos y automatizamos ecosistemas digitales.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Desde la identidad hasta la expansión, ayudamos a profesionales y marcas a crear una presencia digital inteligente y modular."
     styles:
       self:
         height: auto
