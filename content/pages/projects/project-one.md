@@ -9,7 +9,7 @@ description: >-
   convierten.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Futuristic Financial Data.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
