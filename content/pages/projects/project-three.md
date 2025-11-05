@@ -9,7 +9,7 @@ description: >-
   formularios conectados a CRM.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/integraciones.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
