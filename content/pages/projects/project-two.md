@@ -9,7 +9,7 @@ description: >-
   CRM, WhatsApp, email y hojas de cálculo.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/automatizaciones.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
