@@ -13,13 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: 'IA Lab Studio: Laboratorio de Automatización y Presencia Digital'
+    subtitle: "Diseñamos, conectamos y automatizamos ecosistemas digitales.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Desde la identidad hasta la expansión, ayudamos a profesionales y marcas a crear una presencia digital inteligente y modular."
     styles:
       self:
         height: auto
