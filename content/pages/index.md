@@ -128,7 +128,7 @@ sections:
         - name: email
           label: Correo electrónico
           hideLabel: true
-          placeholder: Email
+          placeholder: Correo electrónico
           isRequired: true
           width: 1/2
           type: EmailFormControl
