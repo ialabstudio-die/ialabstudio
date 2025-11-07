@@ -47,7 +47,7 @@ sections:
         elementId: ''
     text: |
       Conecta tu negocio con la nueva era digital.
-  - colors: colors-a
+  - colors: colors-d
     type: FeaturedProjectsSection
     elementId: ''
     actions:
