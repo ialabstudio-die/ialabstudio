@@ -63,7 +63,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "Publicaciones",
                 "url": "/blog",
                 "altText": ""
             },
