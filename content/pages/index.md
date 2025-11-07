@@ -134,7 +134,7 @@ sections:
           type: EmailFormControl
         - type: TextFormControl
           name: Mensaje
-          label: Name
+          label: Cuéntanos qué necesitas
           hideLabel: false
           placeholder: Your name
           width: full
