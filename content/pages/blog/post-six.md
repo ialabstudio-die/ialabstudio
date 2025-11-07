@@ -4,7 +4,9 @@ title: Cómo automatizar tareas con n8n para tu negocio local
 colors: colors-a
 date: '2025-11-07'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Automatiza tareas repetitivas con n8n y ahorra tiempo en la gestión de tu
+  negocio local.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
