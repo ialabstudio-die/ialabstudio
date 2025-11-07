@@ -5,8 +5,9 @@ colors: colors-a
 date: '2025-11-07'
 client: Negocio digital optimizado con IA Lab Studio
 description: >-
-  Sitios rápidos en Hostinger/Shopify/GHL. Estructura SEO, analytics y
-  formularios conectados a CRM.
+  Desarrollo de webs rápidas y optimizadas en Hostinger, Shopify o GoHighLevel. 
+  Estructura SEO sólida, analytics avanzado y funnels conectados a CRM para
+  captar y convertir más clientes.
 featuredImage:
   type: ImageBlock
   url: /images/integraciones.png
