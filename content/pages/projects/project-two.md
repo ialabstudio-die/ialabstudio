@@ -18,5 +18,9 @@ media:
   url: /images/bg2.jpg
   altText: Project image
 metaTitle: Automatizaciones y Asistentes de Voz con IA | IA Lab Studio Granada
+metaDescription: >-
+  Creamos automatizaciones con n8n y Make, integradas con CRM, WhatsApp y
+  correo. Asistentes de voz IA (Retell + ElevenLabs) que optimizan procesos y
+  atención al cliente.
 ---
 Implementamos un sistema de automatización completo que conecta formularios, CRM y mensajería automática.El asistente de voz responde consultas en tiempo real y envía datos a hojas de cálculo y WhatsApp Business.El resultado: ahorro del 60 % del tiempo en tareas repetitivas y mejor atención al cliente.
