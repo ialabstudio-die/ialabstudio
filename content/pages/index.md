@@ -167,5 +167,5 @@ metaTags:
       Presencia digital inteligente y modular para negocios reales.
   - type: MetaTag
     property: 'og:url'
-    content: ''
+    content: 'https://www.ialabstudio.com/'
 ---
