@@ -17,5 +17,6 @@ media:
   url: /images/bg3.jpg
   altText: Project image
 addTitleSuffix: false
+metaTitle: Web Estratégica y Funnels Automatizados | IA Lab Studio Granada
 ---
 Creamos una arquitectura web estratégica con embudos de conversión y automatizaciones conectadas al CRM.El sistema permite captar leads desde la web y nutrirlos automáticamente mediante email y WhatsApp.Resultado: aumento del 40 % en la conversión y menor tiempo de gestión.
