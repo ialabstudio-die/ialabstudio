@@ -39,7 +39,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: /Ver proyectos
+        url: /
         showIcon: false
         icon: arrowRight
         iconPosition: right
