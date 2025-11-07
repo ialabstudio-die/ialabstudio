@@ -136,7 +136,7 @@ sections:
           name: Mensaje
           label: Cuéntanos qué necesitas
           hideLabel: false
-          placeholder: Your name
+          placeholder: Cuéntanos qué necesitas
           width: full
           isRequired: false
         - name: updatesConsent
