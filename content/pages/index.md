@@ -59,7 +59,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+    subtitle: Proyectos destacados
     title: ''
   - type: FeaturedPostsSection
     elementId: ''
