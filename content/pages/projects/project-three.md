@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Web Estratégica y Funnels Automatizados '
 colors: colors-a
-date: '2022-01-22'
+date: '2025-11-07'
 client: Awesome client
 description: >-
   Sitios rápidos en Hostinger/Shopify/GHL. Estructura SEO, analytics y
