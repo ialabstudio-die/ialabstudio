@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'SEO Local y Contenidos Estratégicos '
 colors: colors-a
-date: '2021-10-15'
+date: '2025-11-07'
 client: Awesome client
 description: >-
   Arquitectura, schema, GMB, captación local y contenidos que posicionan y
