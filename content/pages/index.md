@@ -139,6 +139,13 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
+        - type: TextFormControl
+          name: Mensaje
+          label: Name
+          hideLabel: false
+          placeholder: Your name
+          width: full
+          isRequired: false
       submitLabel: "Enviar mensaje \U0001F680"
       styles:
         self:
