@@ -2,7 +2,7 @@
 type: PostLayout
 title: Cómo automatizar tareas con n8n para tu negocio local
 colors: colors-a
-date: '2024-06-03'
+date: '2025-11-07'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
