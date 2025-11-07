@@ -133,7 +133,7 @@ sections:
           width: 1/2
           type: EmailFormControl
         - name: updatesConsent
-          label: Sign me up to recieve updates
+          label: Deseo recibir novedades y actualizaciones de IA Lab Studio
           isRequired: false
           width: full
           type: CheckboxFormControl
