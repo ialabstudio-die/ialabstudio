@@ -134,7 +134,7 @@ sections:
           type: EmailFormControl
         - type: TextFormControl
           name: Mensaje
-          label: Cuéntanos qué necesitas
+          label: Mensaje
           hideLabel: false
           placeholder: Cuéntanos qué necesitas
           width: full
