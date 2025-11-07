@@ -4,7 +4,9 @@ title: SEO técnico para webs hechas en Hostinger o GoHighLevel
 colors: colors-b
 date: '2025-11-07'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Cómo mejorar el SEO técnico en sitios creados con Hostinger o GoHighLevel para
+  aumentar tráfico y visibilidad.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
