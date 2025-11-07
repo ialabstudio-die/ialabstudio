@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: IA Lab Studio | Home principal
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
