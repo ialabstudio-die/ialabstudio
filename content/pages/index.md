@@ -74,7 +74,7 @@ sections:
           - pr-4
         textAlign: left
     subtitle: Proyectos destacados
-    title: ''
+    title: Proyectos y sistemas creados por IA Lab Studio
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
