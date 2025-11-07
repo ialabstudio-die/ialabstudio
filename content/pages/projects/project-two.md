@@ -5,8 +5,10 @@ colors: colors-a
 date: '2025-11-07'
 client: Proyecto interno IA Lab Studio
 description: >-
-  n8n, Make, bots y asistentes de voz (Retell + ElevenLabs). Integraciones con
-  CRM, WhatsApp, email y hojas de cálculo.
+  Desarrollo de flujos automatizados con n8n y Make.  Asistentes de voz basados
+  en IA (Retell + ElevenLabs) integrados con CRM, WhatsApp, email y Google
+  Sheets.  Solución diseñada para optimizar la comunicación y ahorrar tiempo
+  operativo.
 featuredImage:
   type: ImageBlock
   url: /images/automatizaciones.png
