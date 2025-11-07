@@ -166,6 +166,6 @@ metaTags:
       Diseñamos, conectamos y automatizamos ecosistemas digitales desde Granada.
       Presencia digital inteligente y modular para negocios reales.
   - type: MetaTag
-    property: 'og:title'
+    property: 'og:url'
     content: ''
 ---
