@@ -60,7 +60,7 @@ sections:
           - pr-4
         textAlign: left
     subtitle: Projects
-    title: Proyectos destacados
+    title: ''
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
