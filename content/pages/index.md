@@ -162,5 +162,7 @@ metaTags:
       Granada
   - type: MetaTag
     property: 'og:description'
-    content: 'og:description'
+    content: >-
+      Diseñamos, conectamos y automatizamos ecosistemas digitales desde Granada.
+      Presencia digital inteligente y modular para negocios reales.
 ---
