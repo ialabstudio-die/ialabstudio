@@ -133,7 +133,9 @@ sections:
           width: 1/2
           type: EmailFormControl
         - name: updatesConsent
-          label: Deseo recibir novedades y actualizaciones de IA Lab Studio
+          label: >-
+            Quiero recibir novedades, guías y actualizaciones de IA Lab Studio
+            (puedes darte de baja cuando quieras)
           isRequired: false
           width: full
           type: CheckboxFormControl
