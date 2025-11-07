@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Automatizaciones y asistentes de voz con IA
 colors: colors-a
 date: '2025-11-07'
-client: Awesome client
+client: Proyecto interno IA Lab Studio
 description: >-
   n8n, Make, bots y asistentes de voz (Retell + ElevenLabs). Integraciones con
   CRM, WhatsApp, email y hojas de cálculo.
