@@ -168,4 +168,7 @@ metaTags:
   - type: MetaTag
     property: 'og:url'
     content: 'https://www.ialabstudio.com/'
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
