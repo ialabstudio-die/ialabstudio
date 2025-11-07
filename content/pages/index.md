@@ -41,7 +41,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: apple
+        icon: chevronRight
         iconPosition: right
         style: primary
         elementId: ''
