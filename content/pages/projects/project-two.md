@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Automatizaciones y asistentes de voz con IA
 colors: colors-a
-date: '2021-12-20'
+date: '2021-11-20'
 client: Awesome client
 description: >-
   n8n, Make, bots y asistentes de voz (Retell + ElevenLabs). Integraciones con
