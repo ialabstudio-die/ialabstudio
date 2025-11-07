@@ -150,4 +150,8 @@ sections:
         textAlign: left
 socialImage: /images/Violeta N.png
 metaTitle: 'IA Lab Studio: Laboratorio de Automatización y Presencia Digital en Granada'
+metaDescription: >-
+  Diseñamos, conectamos y automatizamos ecosistemas digitales. Desde Granada
+  ayudamos a marcas, agencias y profesionales a crear una presencia digital
+  inteligente y modular.
 ---
