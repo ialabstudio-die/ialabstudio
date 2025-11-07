@@ -162,5 +162,5 @@ metaTags:
       Granada
   - type: MetaTag
     property: 'og:title'
-    content: ''
+    content: 'og:description'
 ---
