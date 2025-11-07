@@ -36,6 +36,8 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: |
+      Conecta tu negocio con la nueva era digital.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
