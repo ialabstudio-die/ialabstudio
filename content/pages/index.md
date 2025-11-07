@@ -172,6 +172,6 @@ metaTags:
     property: 'og:type'
     content: website
   - type: MetaTag
-    property: 'og:title'
+    property: 'og:image'
     content: ''
 ---
