@@ -5,8 +5,9 @@ colors: colors-a
 date: '2025-11-07'
 client: Proyecto SEO para marca local en Andalucía
 description: >-
-  Arquitectura, schema, GMB, captación local y contenidos que posicionan y
-  convierten.
+  Optimización SEO local con arquitectura web, schema y Google Business
+  Profile.  Creamos contenido estratégico que mejora visibilidad y conversión en
+  Granada.
 featuredImage:
   type: ImageBlock
   url: /images/Futuristic Financial Data.png
