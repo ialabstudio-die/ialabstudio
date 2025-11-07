@@ -149,4 +149,5 @@ sections:
         flexDirection: row
         textAlign: left
 socialImage: /images/Violeta N.png
+metaTitle: 'IA Lab Studio: Laboratorio de Automatización y Presencia Digital en Granada'
 ---
