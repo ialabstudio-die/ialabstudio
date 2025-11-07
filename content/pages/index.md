@@ -154,4 +154,8 @@ metaDescription: >-
   Diseñamos, conectamos y automatizamos ecosistemas digitales. Desde Granada
   ayudamos a marcas, agencias y profesionales a crear una presencia digital
   inteligente y modular.
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
