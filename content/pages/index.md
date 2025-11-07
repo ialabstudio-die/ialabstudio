@@ -43,7 +43,7 @@ sections:
         showIcon: true
         icon: chevronRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
     text: |
       Conecta tu negocio con la nueva era digital.
