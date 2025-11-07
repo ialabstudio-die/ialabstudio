@@ -102,6 +102,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    title: Publicaciones y recursos
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
