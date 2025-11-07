@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: SEO local y contenido
+title: 'SEO Local y Contenidos Estratégicos '
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
