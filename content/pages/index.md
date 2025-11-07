@@ -164,6 +164,10 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+    text: >
+      Cuéntanos qué necesitas: automatización, web, SEO o asistentes
+      inteligentes. Responderemos en menos de 24 h con una propuesta adaptada a
+      tu negocio.
 socialImage: /images/Logo Violeta B.png
 metaTitle: 'IA Lab Studio: Laboratorio de Automatización y Presencia Digital en Granada'
 metaDescription: >-
