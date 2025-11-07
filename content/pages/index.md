@@ -148,7 +148,7 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
-socialImage: /images/Logo Violeta N.png
+socialImage: /images/Logo Violeta B.png
 metaTitle: 'IA Lab Studio: Laboratorio de Automatización y Presencia Digital en Granada'
 metaDescription: >-
   Diseñamos, conectamos y automatizamos ecosistemas digitales. Desde Granada
