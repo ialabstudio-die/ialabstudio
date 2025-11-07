@@ -79,7 +79,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Publicaciones
+    subtitle: 'Ideas, guías y automatización aplicada'
     showFeaturedImage: false
     actions:
       - type: Link
