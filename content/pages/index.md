@@ -37,7 +37,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: Ver proyectos
         altText: ''
         url: /
         showIcon: false
