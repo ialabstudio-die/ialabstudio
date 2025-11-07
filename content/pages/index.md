@@ -173,5 +173,6 @@ metaTags:
     content: website
   - type: MetaTag
     property: 'og:image'
-    content: ''
+    content: >-
+      https://devserver-preview--ialabstudio.netlify.app/_static/app-assets/public/images/Logo%20Violeta%20B.png
 ---
