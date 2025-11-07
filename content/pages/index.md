@@ -132,13 +132,6 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: updatesConsent
-          label: >-
-            Quiero recibir novedades, guías y actualizaciones de IA Lab Studio
-            (puedes darte de baja cuando quieras)
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
         - type: TextFormControl
           name: Mensaje
           label: Name
@@ -146,6 +139,13 @@ sections:
           placeholder: Your name
           width: full
           isRequired: false
+        - name: updatesConsent
+          label: >-
+            Quiero recibir novedades, guías y actualizaciones de IA Lab Studio
+            (puedes darte de baja cuando quieras)
+          isRequired: false
+          width: full
+          type: CheckboxFormControl
       submitLabel: "Enviar mensaje \U0001F680"
       styles:
         self:
