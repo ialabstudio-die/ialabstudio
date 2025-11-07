@@ -73,7 +73,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Proyectos destacados
+    subtitle: Casos reales de automatización y presencia digital
     title: Proyectos y sistemas creados por IA Lab Studio
   - type: FeaturedPostsSection
     elementId: ''
