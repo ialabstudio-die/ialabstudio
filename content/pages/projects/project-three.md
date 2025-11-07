@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Web estratégica y funnels
+title: 'Web Estratégica y Funnels Automatizados '
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
