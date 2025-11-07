@@ -161,6 +161,6 @@ metaTags:
       IA Lab Studio: Laboratorio de Automatización y Presencia Digital en
       Granada
   - type: MetaTag
-    property: 'og:title'
+    property: 'og:description'
     content: 'og:description'
 ---
