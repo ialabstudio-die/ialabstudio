@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Web Estratégica y Funnels Automatizados '
 colors: colors-a
 date: '2025-11-07'
-client: Awesome client
+client: Negocio digital optimizado con IA Lab Studio
 description: >-
   Sitios rápidos en Hostinger/Shopify/GHL. Estructura SEO, analytics y
   formularios conectados a CRM.
