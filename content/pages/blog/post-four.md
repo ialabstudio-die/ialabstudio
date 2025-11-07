@@ -4,7 +4,9 @@ title: Qué es un asistente de voz inteligente y cómo mejora la atención al cl
 colors: colors-a
 date: '2025-11-07'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Los asistentes de voz con IA ya son una realidad para empresas que quieren
+  mejorar su atención al cliente.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
