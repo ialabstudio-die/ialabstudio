@@ -18,5 +18,8 @@ media:
   altText: Project image
 addTitleSuffix: false
 metaTitle: Web Estratégica y Funnels Automatizados | IA Lab Studio Granada
+metaDescription: >-
+  Diseñamos webs rápidas y optimizadas con SEO, analytics y funnels conectados a
+  CRM. Estructura estratégica para captar y convertir clientes en Granada.
 ---
 Creamos una arquitectura web estratégica con embudos de conversión y automatizaciones conectadas al CRM.El sistema permite captar leads desde la web y nutrirlos automáticamente mediante email y WhatsApp.Resultado: aumento del 40 % en la conversión y menor tiempo de gestión.
