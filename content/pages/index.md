@@ -65,7 +65,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: Publicaciones
     showFeaturedImage: false
     actions:
       - type: Link
